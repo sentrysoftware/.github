@@ -1,10 +1,7 @@
 # Home for Sentry Software's Open Source Projects
 
 This is the home for [Sentry Software](https://sentrysoftware.com)'s open-source projects, 
-all hosted [on GitHub](https://github.com/sentrysoftware), including [MetricsHub](https://metricshub.com),
-our univeral metrics collection agent for [OpenTelemetry](https://opentelemetry.io/)!
-
-[![MetricsHub Logo](https://github.com/sentrysoftware/.github/assets/32521698/03b4127e-df8d-4c0f-9b9b-2174bcb9838f)](https://metricshub.com)
+all hosted [on GitHub](https://github.com/sentrysoftware).
 
 ## Contributing to Sentry Repositories
 
